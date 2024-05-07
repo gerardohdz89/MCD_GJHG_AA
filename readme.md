@@ -7,5 +7,5 @@ Este repositorio es para subir las tareas de la materia de Aprendizaje Automáti
 
 ### Tareas
 
--[Tarea 1](Tarea1\Tarea1_GJHG.ipynb)
+-[Tarea 1](Tarea1/Tarea1_GJHG.ipynb)
 
