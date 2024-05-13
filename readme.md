@@ -8,4 +8,8 @@ Este repositorio es para subir las tareas de la materia de Aprendizaje Automáti
 ### Tareas
 
 -[Tarea 1](Tarea1/Tarea1_GJHG.ipynb)
+-Tarea 2
 
+Los siguientes son los archivos a utilizar:
+*[Estadística de pases de jugadores activos](Tarea2/ActivePlayer_Passing_Stats.csv)
+*[Información básica de jugadores activos](Tarea2/Active_Player_Basic_Stats.csv)
