@@ -8,6 +8,7 @@ Este repositorio es para subir las tareas de la materia de Aprendizaje Automáti
 ### Tareas
 
 -[Tarea 1](Tarea1/Tarea1_GJHG.ipynb)
+
 -[Tarea 2](Tarea2/Desarrollo_tarea_2.ipynb)
 
 Los siguientes son los archivos a utilizar:
