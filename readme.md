@@ -15,4 +15,4 @@ Los siguientes son los archivos a utilizar:
  *[Estadística de pases de jugadores activos](Tarea2/ActivePlayer_Passing_Stats.csv)
  *[Información básica de jugadores activos](Tarea2/Active_Player_Basic_Stats.csv)
 
--[Tareas sobre la infromación del proyecto](https://colab.research.google.com/drive/1TAB_7bH9b0oIixEr9ybggAN8q1D56Guy#scrollTo=bHhcWDMCjVq0)
+-[Tareas sobre la infromación del proyecto](https://colab.research.google.com/drive/1TAB_7bH9b0oIixEr9ybggAN8q1D56Guy?usp=sharing)
