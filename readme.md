@@ -12,5 +12,7 @@ Este repositorio es para subir las tareas de la materia de Aprendizaje Automáti
 -[Tarea 2](Tarea2/Desarrollo_tarea_2.ipynb)
 
 Los siguientes son los archivos a utilizar:
-*[Estadística de pases de jugadores activos](Tarea2/ActivePlayer_Passing_Stats.csv)
-*[Información básica de jugadores activos](Tarea2/Active_Player_Basic_Stats.csv)
+ *[Estadística de pases de jugadores activos](Tarea2/ActivePlayer_Passing_Stats.csv)
+ *[Información básica de jugadores activos](Tarea2/Active_Player_Basic_Stats.csv)
+
+-[Tareas sobre la infromación del proyecto](https://colab.research.google.com/drive/1TAB_7bH9b0oIixEr9ybggAN8q1D56Guy#scrollTo=bHhcWDMCjVq0)
