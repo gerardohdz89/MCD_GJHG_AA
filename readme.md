@@ -12,7 +12,8 @@ Este repositorio es para subir las tareas de la materia de Aprendizaje Automáti
 -[Tarea 2](Tarea2/Desarrollo_tarea_2.ipynb)
 
 Esta será la información para el proyecto definitivo y las tareas que ya se realizaron antes ya están hechas con esta nueva información:
- *[Base de datos de características de autos usados para la definición de su precio](Proyecto/Data base.csv)
+
+ *[Base de datos de características de autos usados para la definición de su precio](Proyecto/Data%20base.csv)
 
 
 -[Tareas sobre la infromación del proyecto](https://colab.research.google.com/drive/1TAB_7bH9b0oIixEr9ybggAN8q1D56Guy?usp=sharing)
