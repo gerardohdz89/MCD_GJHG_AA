@@ -11,16 +11,19 @@ Este repositorio es para subir las tareas de la materia de Aprendizaje Automáti
 
 -[Tarea 2](Tarea2/Desarrollo_tarea_2.ipynb)
 
+Esta será la información para el proyecto definitivo y las tareas que ya se realizaron antes ya están hechas con esta nueva información:
+ *[Base de datos de características de autos usados para la definición de su precio](Proyecto/Data base.csv)
+
+
+-[Tareas sobre la infromación del proyecto](https://colab.research.google.com/drive/1TAB_7bH9b0oIixEr9ybggAN8q1D56Guy?usp=sharing)
+
+### Proyecto fallido
 Los siguientes son los archivos que se utilizaron para el proyecto fallido:
  *[Estadística de pases de jugadores activos](Tarea2/ActivePlayer_Passing_Stats.csv)
  *[Información básica de jugadores activos](Tarea2/Active_Player_Basic_Stats.csv)
 
-<<<<<<< HEAD
+
 -[Tareas sobre la infromación del proyecto (Fallido)](https://colab.research.google.com/drive/1TAB_7bH9b0oIixEr9ybggAN8q1D56Guy?usp=sharing)
 
 
-Esta será la información para el proyecto definitivo y las tareas que ya se realizaron antes ya están hechas con esta nueva información:
-    *[Base de datos de características de autos usados para la definición de su precio](Proyecto/Data base.csv)
-=======
--[Tareas sobre la infromación del proyecto](https://colab.research.google.com/drive/1TAB_7bH9b0oIixEr9ybggAN8q1D56Guy?usp=sharing)
->>>>>>> ae3f3ef5f275d2c4fe9c90d649c3b72bf188819f
+
