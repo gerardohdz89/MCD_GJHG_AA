@@ -40,4 +40,4 @@ Spoiler: Fail 💀 😢
 
 💻 [Código Overleaf del Proyecto](https://es.overleaf.com/read/wcfqhwkddrnh#dd14d8)
 
-📕 [Reporte de proyecto]()
+📕 [Reporte de proyecto](https://github.com/gerardohdz89/MCD_GJHG_AA/blob/main/Proyecto/Proyecto_AA.pdf)
