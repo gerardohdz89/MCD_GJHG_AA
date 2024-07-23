@@ -16,7 +16,14 @@ Esta será la información para el proyecto definitivo y las tareas que ya se re
  *[Base de datos de características de autos usados para la definición de su precio](Proyecto/Data%20base.csv)
 
 
--[Tareas sobre la infromación del proyecto](https://colab.research.google.com/drive/1TAB_7bH9b0oIixEr9ybggAN8q1D56Guy?usp=sharing)
+-[Tareas sobre la infromación del proyecto Tarea 3 y 4](https://colab.research.google.com/drive/1TAB_7bH9b0oIixEr9ybggAN8q1D56Guy?usp=sharing)
+
+-[Código python de Tarea 5](https://colab.research.google.com/drive/1JnjFbqHVwaLQJ3aXFCU9v6QKV7p3_-T_?usp=sharing)
+
+-[Código Overleaf de Tarea 5](https://es.overleaf.com/read/grkffsyvdvjh#7c7eac)
+
+-[Reporte PDF de Tarea 5](Tarea 5/Tarea_5.pdf)
+
 
 ### Proyecto fallido
 Los siguientes son los archivos que se utilizaron para el proyecto fallido:
