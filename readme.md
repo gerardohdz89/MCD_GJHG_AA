@@ -33,5 +33,8 @@ Los siguientes son los archivos que se utilizaron para el proyecto fallido:
 
 -[Tareas sobre la infromación del proyecto (Fallido)](https://colab.research.google.com/drive/1TAB_7bH9b0oIixEr9ybggAN8q1D56Guy?usp=sharing)
 
+### Resultados del Proyecto Final 🚗
+Spoiler: Fail 💀 😢
 
+🐍 [Código python del Proyecto](https://colab.research.google.com/drive/1sUYpEeiBS-xY6hoND884d8pStGC0MA-m?usp=sharing)
 
