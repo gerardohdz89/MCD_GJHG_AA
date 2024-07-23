@@ -22,7 +22,7 @@ Esta será la información para el proyecto definitivo y las tareas que ya se re
 
 -[Código Overleaf de Tarea 5](https://es.overleaf.com/read/grkffsyvdvjh#7c7eac)
 
--[Reporte PDF de Tarea 5](Tarea 5/Tarea_5.pdf)
+-[Reporte de Tarea 5](https://github.com/gerardohdz89/MCD_GJHG_AA/blob/main/Tarea%205/Tarea_5.pdf)
 
 
 ### Proyecto fallido
