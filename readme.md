@@ -38,3 +38,6 @@ Spoiler: Fail 💀 😢
 
 🐍 [Código python del Proyecto](https://colab.research.google.com/drive/1sUYpEeiBS-xY6hoND884d8pStGC0MA-m?usp=sharing)
 
+💻 [Código Overleaf del Proyecto](https://es.overleaf.com/read/wcfqhwkddrnh#dd14d8)
+
+📕 [Reporte de proyecto]()
